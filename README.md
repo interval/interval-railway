@@ -2,8 +2,6 @@
 
 An example project with [Interval](https://interval.com) configured to run on [Railway](https://railway.app). Created with [create-interval-app](https://github.com/interval/create-interval-app).
 
-[create-interval-app](https://github.com/interval/create-interval-app).
-
 Click the button below to deploy this app on Railway:
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/qU3MGg)
@@ -11,7 +9,7 @@ Click the button below to deploy this app on Railway:
 ### Helpful links
 
 - [Interval](https://interval.com)
-- [Render](https://render.com)
+- [Railway](https://railway.app)
 - [Interval documentation](https://interval.com/docs)
 
 ### Typing
