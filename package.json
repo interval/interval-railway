@@ -1,5 +1,6 @@
 {
-  "name": "interval-typescript-starter",
+  "name": "interval-railway",
+  "description": "An example Interval app running on Railway.",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
